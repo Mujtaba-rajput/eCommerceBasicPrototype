@@ -1,0 +1,16 @@
+current directory: /Users/mac1/projects/todoListApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/mac1/.rvm/rubies/ruby-2.7.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac1/projects/todoListApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230408-3445-15n1mhk sitelibdir\=./.gem.20230408-3445-15n1mhk clean
+
+current directory: /Users/mac1/projects/todoListApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230408-3445-15n1mhk sitelibdir\=./.gem.20230408-3445-15n1mhk
+make: Nothing to be done for `all'.
+
+current directory: /Users/mac1/projects/todoListApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230408-3445-15n1mhk sitelibdir\=./.gem.20230408-3445-15n1mhk install
+
+current directory: /Users/mac1/projects/todoListApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230408-3445-15n1mhk sitelibdir\=./.gem.20230408-3445-15n1mhk clean
